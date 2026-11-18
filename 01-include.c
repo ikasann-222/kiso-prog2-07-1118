@@ -38,7 +38,6 @@
 // ==================================================
 #include <stdio.h>
 #include "sample.txt"
-
 int main(void)
 {
     hello();
